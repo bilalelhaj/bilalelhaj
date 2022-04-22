@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilalelhaj
+- 👋 Salam, I’m @bilalelhaj
 - 👀 I’m interested in learning new things, especially complex quests
 - 🌱 I’m currently learning backend development
 - 📫 How to reach me bilal.devco@gmail.com
