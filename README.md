@@ -35,4 +35,4 @@ I apply the same rigorous standards to my personal infrastructure as I do to ent
 
 | Repository | Focus |
 | :--- | :--- |
-| **[🔐 vaultwarden-infrastructure](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps**<br>A hardened, production-ready setup for Vaultwarden.<br>• **Stack:** Docker Compose, Caddy v2, SQLite<br>• **Security:** Automated HTTPS, Argon2 hashing, Network segregation |
+| **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps**<br>A hardened, production-ready setup for Vaultwarden.<br>• **Stack:** Docker Compose, Caddy v2, SQLite<br>• **Security:** Automated HTTPS, Argon2 hashing, Network segregation |
