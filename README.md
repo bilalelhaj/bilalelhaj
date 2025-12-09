@@ -1,6 +1,6 @@
-# Software Engineer & System Architect
+# Backend Engineer
 
-> **Full Stack Engineer** specializing in **Laravel/Filament** architectures, **Shopware 6** integrations, and **Database Design**.
+> **Backend Engineer** specializing in **Laravel/Filament** architectures, **Shopware 6** integrations, and **Database Design**.
 > Building digital solutions since **2011**.
 
 Currently finalizing my B.Sc. in **Computer Science @ FH Aachen University of Applied Sciences**.
