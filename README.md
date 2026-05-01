@@ -7,16 +7,15 @@ Currently finalizing my B.Sc. in **Computer Science @ FH Aachen University of Ap
 
 ---
 
-### What I do
+### What I work on
 
-I'm the engineer companies hire when they need someone who can take a product from whiteboard to production:
+End-to-end product engineering — from concept to running production system:
 
-- **Architect** — design systems before writing code
+- **Architect** — data models, system design
 - **Build** — backend (Laravel), frontend (Filament/Livewire), DB (MySQL)
-- **Ship** — Docker, Linux, CI/CD pipelines
+- **Ship** — Docker, Linux, CI/CD
 - **Integrate** — Shopware 6, BMEcat, ERP ↔ Shop sync
 - **Grow** — Google Ads, SEO, Google Merchant Center
-- **Own** — from business requirement to running production system
 
 ---
 
