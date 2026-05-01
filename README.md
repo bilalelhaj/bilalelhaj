@@ -49,7 +49,7 @@ End-to-end ownership of an ERP for the industrial components sector.
 | :--- | :--- |
 | **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps** — hardened, production-ready Vaultwarden.<br>Docker Compose · Caddy v2 · Argon2 hashing · automated backups |
 | **[🐧 ubuntu-bootstrap](https://github.com/bilalelhaj/ubuntu-bootstrap)** | **DevOps** — one-shot bootstrap for Debian/Ubuntu servers.<br>UFW ↔ Docker integration · Caddy proxy · docker-autoheal · optional GH SSH-key import |
-| **[🤖 laravel-engineering-agents](https://github.com/bilalelhaj/laravel-engineering-agents)** | **AI / Laravel** — multi-agent Claude Code workflow for Laravel 12.<br>`@laravel-architect` · `@laravel-builder` · `@laravel-reviewer` · Pest 3 · Filament 4 |
+| **[🤖 laravel-engineering-agents](https://github.com/bilalelhaj/laravel-engineering-agents)** | **AI / Laravel** — 6-agent Claude Code pipeline for Laravel.<br>Parallel spec refinement (app · db · UI) → phase planning → test-first build → independent review.<br>Detects Laravel 10–13, Pest 3–4, Filament 3–4. |
 
 ---
 
