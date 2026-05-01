@@ -1,38 +1,57 @@
-# Backend Engineer
+# Bilal El Haj
 
-> **Backend Engineer** specializing in **Laravel/Filament** architectures, **Shopware 6** integrations, and **Database Design**.
-> Building digital solutions since **2011**.
+> Engineering across the stack — architecture · DB · backend · frontend · DevOps · integrations · @ WSU Industrials
 
+Building digital solutions since **2011**, working professionally since **2022**.
 Currently finalizing my B.Sc. in **Computer Science @ FH Aachen University of Applied Sciences**.
 
 ---
 
-### ⚡ Engineering Stack
+### What I do
 
-I focus on building robust business applications, handling complex data flows between ERPs and Shopsystems.
+I'm the engineer companies hire when they need someone who can take a product from whiteboard to production:
 
-| Domain | Technologies |
+- **Architect** — design systems before writing code
+- **Build** — backend (Laravel), frontend (Filament/Livewire), DB (MySQL)
+- **Ship** — Docker, Linux, CI/CD pipelines
+- **Integrate** — Shopware 6, BMEcat, ERP ↔ Shop sync
+- **Grow** — Google Ads, SEO, Google Merchant Center
+- **Own** — from business requirement to running production system
+
+---
+
+### 🏭 ERP System @ WSU Industrials *(current)*
+
+End-to-end ownership of an ERP for the industrial components sector.
+
+* **Architected** the data model for parts, stocking, and warehouse workflows
+* **Built** the Filament admin UI and Laravel API layer
+* **Designed & shipped** worldwide shipping — concept through production rollout
+* **Designed** the Shopware 6 sync (inventory, pricing, product data)
+
+---
+
+### ⚡ Stack
+
+| Layer | Tools |
 | :--- | :--- |
-| **Enterprise Architecture** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![FilamentPHP](https://img.shields.io/badge/-Filament-F28D15?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **E-Commerce & CMS** | ![Shopware 6](https://img.shields.io/badge/-Shopware_6-189EFF?style=flat-square&logo=shopware&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
-| **Infrastructure & Ops** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Caddy](https://img.shields.io/badge/-Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Frontend** | ![Filament](https://img.shields.io/badge/-Filament-F28D15?style=flat-square&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/-Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Integration** | ![Shopware 6](https://img.shields.io/badge/-Shopware_6-189EFF?style=flat-square&logo=shopware&logoColor=white) ![BMEcat](https://img.shields.io/badge/-BMEcat-555555?style=flat-square) ![REST](https://img.shields.io/badge/-REST_/_GraphQL-000000?style=flat-square) |
+| **Ops** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Caddy](https://img.shields.io/badge/-Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white) ![GH Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Growth** | ![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-47B749?style=flat-square&logo=googlesearchconsole&logoColor=white) ![Merchant Center](https://img.shields.io/badge/-Merchant_Center-4285F4?style=flat-square&logo=google&logoColor=white) |
+| **AI** | ![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 ---
 
-### 💼 Engineering Highlights
-
-#### 🏭 [Current] ERP System Architecture @ WSU
-*Developing a comprehensive ERP system tailored to managing parts in the industrial components sector.*
-* **Stack:** Filament-based frontend, Laravel backend, MySQL database.
-* **Workflow Optimization:** A major focus lies on optimizing workflows such as part sorting, receiving, stocking, and warehouse management to improve data flow and overall operational efficiency.
-* **Integration:** Designing a robust API for seamless integration with **Shopware**, ensuring smooth and reliable data exchange.
-
----
-
-### 🔭 Open Source & Infrastructure
-
-I apply the same rigorous standards to my personal infrastructure as I do to enterprise software.
+### 🔓 Open Source
 
 | Repository | Focus |
 | :--- | :--- |
-| **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps**<br>A hardened, production-ready setup for Vaultwarden.<br>• **Stack:** Docker Compose, Caddy v2, SQLite<br>• **Security:** Automated HTTPS, Argon2 hashing, Network segregation |
+| **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps** — hardened, production-ready Vaultwarden.<br>Docker Compose · Caddy v2 · Argon2 hashing · automated backups |
+
+*More projects landing soon.*
+
+---
+
+📍 Aachen, Germany
