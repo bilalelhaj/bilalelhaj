@@ -48,8 +48,7 @@ End-to-end ownership of an ERP for the industrial components sector.
 | Repository | Focus |
 | :--- | :--- |
 | **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps** — hardened, production-ready Vaultwarden.<br>Docker Compose · Caddy v2 · Argon2 hashing · automated backups |
-
-*More projects landing soon.*
+| **[🐧 ubuntu-bootstrap](https://github.com/bilalelhaj/ubuntu-bootstrap)** | **DevOps** — one-shot bootstrap for Debian/Ubuntu servers.<br>UFW ↔ Docker integration · Caddy proxy · docker-autoheal · optional GH SSH-key import |
 
 ---
 
