@@ -1,36 +1,37 @@
 # Bilal El Haj
 
-> Engineering across the stack — architecture · DB · backend · frontend · DevOps · integrations · @ WSU Industrials
+> Bridging the gap between business needs and technical execution · Full-Stack Architecture · Process Automation · E-Commerce Growth · @ WSU Industrials
 
-Building digital solutions since **2011**, working professionally since **2022**.
-Currently finalizing my B.Sc. in **Computer Science @ FH Aachen University of Applied Sciences**.
+Building digital solutions since **2011**, working professionally since **2022**. 
+I specialize in translating complex business requirements into scalable software that reduces operational bottlenecks and drives revenue. Currently finalizing my B.Sc. in **Computer Science @ FH Aachen University of Applied Sciences**.
 
 ---
 
-### What I work on
+### What I deliver
 
-End-to-end product engineering — from concept to running production system:
+End-to-end product ownership — from understanding the business problem to running a reliable production system:
 
-- **Architect** — data models, system design
-- **Build** — backend (Laravel), frontend (Filament/Livewire), DB (MySQL)
-- **Ship** — Docker, Linux, CI/CD
-- **Integrate** — Shopware 6, BMEcat, ERP ↔ Shop sync
-- **Grow** — Google Ads, SEO, Google Merchant Center
+- **Business Automation** — Architecting data models and systems that eliminate manual work (Laravel).
+- **Employee Empowerment** — Building intuitive internal tooling (Filament/Livewire) to speed up daily workflows.
+- **Revenue Growth** — Driving customer acquisition via technical SEO, Google Ads, and Merchant Center integrations.
+- **System Integration** — Breaking down data silos by syncing ERPs with external sales channels (Shopware 6, BMEcat).
+- **Reliability** — Ensuring high uptime and secure deployments (Docker, Linux, CI/CD).
 
 ---
 
 ### 🏭 ERP System @ WSU Industrials *(current)*
 
-End-to-end ownership of an ERP for the industrial components sector.
+End-to-end ownership of a custom ERP built to scale the industrial components sector.
 
-* **Architected** the data model for parts, stocking, and warehouse workflows
-* **Built** the Filament admin UI and Laravel API layer
-* **Designed & shipped** worldwide shipping — concept through production rollout
-* **Designed** the Shopware 6 sync (inventory, pricing, product data)
+* **Optimized Warehouse Operations:** Architected the data model for parts, stocking, and warehouse workflows, significantly reducing manual tracking and fulfillment errors.
+* **Streamlined Internal Processes:** Built the Filament admin UI and Laravel API layer, accelerating employee workflows and reducing data-entry overhead.
+* **Expanded Global Reach:** Designed and shipped a worldwide shipping and logistics system from concept through production rollout, unlocking new international markets.
+* **Automated Sales Channels:** Engineered a real-time Shopware 6 sync (inventory, pricing, product data), enabling seamless e-commerce growth without additional administrative overhead.
 
 ---
 
-### ⚡ Stack
+### ⚡ Technology Stack
+*Tools I use to create value:*
 
 | Layer | Tools |
 | :--- | :--- |
@@ -47,9 +48,9 @@ End-to-end ownership of an ERP for the industrial components sector.
 
 | Repository | Focus |
 | :--- | :--- |
-| **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps** — hardened, production-ready Vaultwarden.<br>Docker Compose · Caddy v2 · Argon2 hashing · automated backups |
-| **[🐧 ubuntu-bootstrap](https://github.com/bilalelhaj/ubuntu-bootstrap)** | **DevOps** — one-shot bootstrap for Debian/Ubuntu servers.<br>UFW ↔ Docker integration · Caddy proxy · docker-autoheal · optional GH SSH-key import |
-| **[🤖 laravel-engineering-agents](https://github.com/bilalelhaj/laravel-engineering-agents)** | **AI / Laravel** — 6-agent Claude Code pipeline for Laravel.<br>Parallel spec refinement (app · db · UI) → phase planning → test-first build → independent review.<br>Detects Laravel 10–13, Pest 3–4, Filament 3–4. |
+| **[🔐 vaultwarden-docker-caddy](https://github.com/bilalelhaj/vaultwarden-docker-caddy)** | **Security / DevOps** — Hardened, production-ready Vaultwarden.<br>Eliminates setup overhead for secure credential management. (Docker Compose · Caddy v2 · Argon2 · automated backups) |
+| **[🐧 ubuntu-bootstrap](https://github.com/bilalelhaj/ubuntu-bootstrap)** | **DevOps** — One-shot bootstrap for Debian/Ubuntu servers.<br>Reduces server provisioning time and standardizes security. (UFW ↔ Docker integration · Caddy proxy · docker-autoheal) |
+| **[🤖 laravel-engineering-agents](https://github.com/bilalelhaj/laravel-engineering-agents)** | **AI / Automation** — 6-agent Claude Code pipeline for Laravel.<br>Accelerates development cycles by automating spec refinement, test-first building, and independent review. |
 
 ---
 
